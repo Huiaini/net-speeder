@@ -1,10 +1,6 @@
 # net-speeder
 一键安装net-speeder的脚本文件
 ##安装
-###Centos
-    https://raw.githubusercontent.com/Huiaini/net-speeder/master/net-speeder_CentOS.sh
-    chmod +x net-speeder_CentOS.sh
-    ./net-speeder_CentOS.sh
 ###Ubuntu(Debian)
 	https://raw.githubusercontent.com/Huiaini/net-speeder/master/net-speeder_CentOS.sh
 	chmod +x net-speeder_debian_ubuntu.sh
